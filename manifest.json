@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "scrapy",
+  "repo": "formerly",
+  "versions": [
+    {
+      "commit": "1286733c171d2138bc6dcb59b49ee4df5228fd40",
+      "parsed_at": "2026-10-12T06:16:28.082314+00:00",
+      "filetree": "filetree/1286733c171d2138bc6dcb59b49ee4df5228fd40.nq.gz",
+      "blobs": [
+        "blob/ac8f4cb26e091718c33483bf66be03e776cbe4da.nq.gz",
+        "blob/7f08d7a1a8960f4521462840a843870fc90f5afe.nq.gz",
+        "blob/e5b389cdb224a0e125866d3a7c83320efde097bc.nq.gz",
+        "blob/d8aa6b984fa2c4c4891f114100d205ad99801b34.nq.gz",
+        "blob/7d7442433401d13dc969e6e0e361ff11c05b5bb1.nq.gz",
+        "blob/5354adcb5239e267e02affc6d5326bc6243f8dcc.nq.gz",
+        "blob/c76beec7ae28d9ff9df36284627b7d5fb5931dd2.nq.gz",
+        "blob/77458ed17470646be5aa28dcd75bec084f1a16fb.nq.gz",
+        "blob/2aac90a9f878b93a4c7a05509e83a4143498f0a7.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/6ead05eced18b8703d19b6b5fb1860da86843cd4.nq.gz",
+        "blob/993fba75ae7506d4b733164b5f3722c6131f8cce.nq.gz",
+        "blob/ddfac8ab62cbc9bf0c2f6f386d4afd2672b94518.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
